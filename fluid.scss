@@ -1,6 +1,6 @@
-@use 'sass:math';
-@use '@bu0nq/style.scss.function.rem/rem' as *;
-@use '@bu0nq/style.scss.function.round/round' as *;
+@use "sass:math";
+@use "@bu0nq/style.scss.function.rem/rem" as *;
+@use "@bu0nq/style.scss.function.round/round" as *;
 
 @function fluid(
   $min-value,
